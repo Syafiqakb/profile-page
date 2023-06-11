@@ -1,0 +1,68 @@
+body{
+    background: -webkit-linear-gradient(top, #3931af, #e100ff);
+}
+
+.emp-profile{
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 50px;
+    background-color: #00203fff;
+    color: white;
+    box-shadow: 10px 10px rgb(219, 189, 17);
+
+}
+
+.emp-profile header {
+    font-weight: bold;
+}
+
+.link {
+    display: flex;
+    justify-content: right;
+}
+
+.photo {
+    border-radius: 50%;
+    width: 100px;
+    height: 120px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+table{
+    border:1px solid rgb(219, 189, 17);
+    width: 100%;
+    text-align: left;
+}
+
+.footer {
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+}
+
+.logo {
+    padding: 1.0rem;
+    width: 30px;
+}
+
+.CalculatorBox {
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 50px;
+    background-color: #00203fff;
+    color: white;
+    box-shadow: 10px 10px rgb(219, 189, 17);
+}
+
+tr
+{
+  color:white;
+}
